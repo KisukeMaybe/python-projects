@@ -1,0 +1,3 @@
+# Ignore sensitive files inside password-manager
+password-manager/key.key
+password-manager/passwords.txt
