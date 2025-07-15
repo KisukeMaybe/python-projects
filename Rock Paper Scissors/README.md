@@ -1,6 +1,6 @@
 # ✊🖐✌️ Rock, Paper, Scissors Game
 
-A simple Python implementation of the classic "Rock, Paper, Scissors" game where you play against the computer.
+A simple Python implementation of the classic `"Rock, Paper, Scissors"` game where you play against the computer.
 
 ## 🎮 How It Works
 

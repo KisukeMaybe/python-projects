@@ -20,5 +20,5 @@ A beginner-friendly Python quiz game that tests your knowledge of common PC comp
 Make sure you have Python installed. Then:
 
 ```bash
-python guess_the_component.py
+python pc_components_quiz.py
 ```
